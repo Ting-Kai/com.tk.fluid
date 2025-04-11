@@ -1,0 +1,11 @@
+{
+  "author": "tk",
+  "description": "Fluid",
+  "displayName": "TKFluid",
+  "keywords": [
+    "unity"
+  ],
+  "license": "SEE LICENSE IN LICENSE",
+  "name": "com.tk.fluid",
+  "version": "1.0.0"
+}
